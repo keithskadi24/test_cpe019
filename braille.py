@@ -1,3 +1,5 @@
+pip install streamlit tensorflow opencv-python-headless pillow requests
+
 import streamlit as st
 import tensorflow as tf
 from PIL import Image
